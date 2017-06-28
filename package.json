@@ -1,0 +1,17 @@
+{
+  "name": "tinypng",
+  "version": "1.0.0",
+  "description": "testar tinypng.com.br",
+  "main": "run.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "imagem"
+  ],
+  "author": "dennisdoc@hotmail.com",
+  "license": "ISC",
+  "dependencies": {
+    "tinify": "^1.5.0"
+  }
+}
